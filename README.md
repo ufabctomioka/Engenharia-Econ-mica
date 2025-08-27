@@ -1,2 +1,2 @@
-# Engenharia-Econ-mica
+# Engenharia-Econômica
 Scripts da disciplina
